@@ -3,6 +3,14 @@ body{
     color: #FA0000;
     font-family: "Bangers", system-ui;
 }
+
+header{
+    border-bottom: double 2px red;
+    padding: 30px;
+    font-size: 32px;
+    color: red;
+}
+
 section{
     background-color: #05121E;
     padding-bottom: 80px;
@@ -20,6 +28,6 @@ p{
 }
 
 header{
-    border: solid 6px red)
+    border: solid 6px red;
 }
 
