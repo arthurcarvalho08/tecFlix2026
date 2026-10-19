@@ -27,6 +27,11 @@ p{
     font-size: 20px;
 }
 
+img{
+    height: 144px;
+    width: 128px;
+}
+
 header{
     border: solid 6px red;
 }
